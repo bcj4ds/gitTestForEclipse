@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h3>Hello!</h3>
+	<h3>go Home method</h3>
 </body>
 </html>
